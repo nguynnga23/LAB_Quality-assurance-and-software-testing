@@ -4,13 +4,11 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace UnitTestProject_Module02
 {
     [TestClass]
-    public class TestBai13
+    public class TestBai13_DataDriven
     {
-        MethodLibrary.MethodLibrary o = new MethodLibrary.MethodLibrary();
         [TestMethod]
         public void TestMethod1()
         {
-
         }
     }
 }

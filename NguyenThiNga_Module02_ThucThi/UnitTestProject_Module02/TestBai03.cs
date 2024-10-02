@@ -45,35 +45,19 @@ namespace UnitTestProject_Module02
 
         //Test return Exception
         [TestMethod]
+        [ExpectedException(typeof(Exception))]
         public void TestMethod5()
         {
-            Exception expectedException = null;
             MethodLibrary.MethodLibrary o = new MethodLibrary.MethodLibrary();
-            try
-            {
-                o.primeCheck(-2);
-            }
-            catch (Exception ex)
-            {
-                expectedException = ex;
-            }
-            Assert.IsNotNull(expectedException);
+            o.primeCheck(-2);
         }
 
         [TestMethod]
+        [ExpectedException(typeof(Exception))]
         public void TestMethod6()
         {
-            Exception expectedException = null;
             MethodLibrary.MethodLibrary o = new MethodLibrary.MethodLibrary();
-            try
-            {
                 o.primeCheck(1020);
-            }
-            catch (Exception ex)
-            {
-                expectedException = ex;
-            }
-            Assert.IsNotNull(expectedException);
         }
 
         [TestMethod]
