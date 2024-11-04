@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nga\\Nam4\\Ki1_Nam4\\dam-bao-chat-luong-va-kiem-thu-phan-mem\\LAB_Quality-assurance-and-software-testing\\NguyenThiNga_Module04\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D591AE-7424-41DC-84BB-3F3A1131C7DC}|ATM.Bus\\ATM.Bus.csproj|d:\\nga\\nam4\\ki1_nam4\\dam-bao-chat-luong-va-kiem-thu-phan-mem\\lab_quality-assurance-and-software-testing\\nguyenthinga_module04\\assignment03\\reviewcodec#.net\\codes\\codes\\atm.bus\\withdrawmoneybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D591AE-7424-41DC-84BB-3F3A1131C7DC}|ATM.Bus\\ATM.Bus.csproj|solutionrelative:atm.bus\\withdrawmoneybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D591AE-7424-41DC-84BB-3F3A1131C7DC}|ATM.Bus\\ATM.Bus.csproj|d:\\nga\\nam4\\ki1_nam4\\dam-bao-chat-luong-va-kiem-thu-phan-mem\\lab_quality-assurance-and-software-testing\\nguyenthinga_module04\\assignment03\\reviewcodec#.net\\codes\\codes\\atm.bus\\validationbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D591AE-7424-41DC-84BB-3F3A1131C7DC}|ATM.Bus\\ATM.Bus.csproj|solutionrelative:atm.bus\\validationbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WithdrawMoneyBl.cs",
+              "DocumentMoniker": "D:\\Nga\\Nam4\\Ki1_Nam4\\dam-bao-chat-luong-va-kiem-thu-phan-mem\\LAB_Quality-assurance-and-software-testing\\NguyenThiNga_Module04\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Bus\\WithdrawMoneyBl.cs",
+              "RelativeDocumentMoniker": "ATM.Bus\\WithdrawMoneyBl.cs",
+              "ToolTip": "D:\\Nga\\Nam4\\Ki1_Nam4\\dam-bao-chat-luong-va-kiem-thu-phan-mem\\LAB_Quality-assurance-and-software-testing\\NguyenThiNga_Module04\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Bus\\WithdrawMoneyBl.cs*",
+              "RelativeToolTip": "ATM.Bus\\WithdrawMoneyBl.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:16:39.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationBus.cs",
+              "DocumentMoniker": "D:\\Nga\\Nam4\\Ki1_Nam4\\dam-bao-chat-luong-va-kiem-thu-phan-mem\\LAB_Quality-assurance-and-software-testing\\NguyenThiNga_Module04\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Bus\\ValidationBus.cs",
+              "RelativeDocumentMoniker": "ATM.Bus\\ValidationBus.cs",
+              "ToolTip": "D:\\Nga\\Nam4\\Ki1_Nam4\\dam-bao-chat-luong-va-kiem-thu-phan-mem\\LAB_Quality-assurance-and-software-testing\\NguyenThiNga_Module04\\Assignment03\\ReviewCodeC#.NET\\Codes\\Codes\\ATM.Bus\\ValidationBus.cs",
+              "RelativeToolTip": "ATM.Bus\\ValidationBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:16:07.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
